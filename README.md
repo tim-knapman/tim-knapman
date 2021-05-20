@@ -2,7 +2,7 @@
 - 👀 I’m interested in WordPress theme devlopment
 - 🌱 I’m currently learning Web Design Principles
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at timknapman@gmail.com
 
 <!---
 tim-knapman/tim-knapman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
