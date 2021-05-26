@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tim-knapman
-- 👀 I’m interested in WordPress theme devlopment
-- 🌱 I’m currently learning Web Design Principles
+- 👀 I’m interested in WordPress theme development
+- 🌱 I’m currently learning Web Design Principles to further my skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at timknapman@gmail.com
 
