@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tim-knapman, currently I'm the owner and Web Developer at BEAL Creative.
+- 👋 Hi, I’m @tim-knapman, currently I'm the founder and Web Developer at BEAL Creative.
 - You can find us at bealcreative.com.au
 - 👀 I’m interested in WordPress theme development
 - 🌱 I’m currently learning Web Design Principles to further my skills.
